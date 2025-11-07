@@ -1,16 +1,79 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my skills, projects, and experience.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a responsive portfolio website designed to highlight my professional background, technical skills, and completed projects. It serves as an online resume and project showcase.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design for all devices
+- Project showcase with descriptions and links
+- Skills and experience section
+- Contact form integration
+- Downloadable resume
+- Social media links
+
+## Technologies Used
+
+- HTML5
+- CSS3 / SCSS
+- JavaScript / React (if applicable)
+- Bootstrap / Tailwind CSS (if applicable)
+- Node.js (if applicable)
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd portfolio
+    ```
+3. Install dependencies (if applicable):
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+- Visit the deployed website or run locally to view the portfolio.
+- Customize content in the source files to update your information.
+
+## Screenshots
+
+![Homepage Screenshot](screenshots/homepage.png)
+![Projects Screenshot](screenshots/projects.png)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for improvements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [Your GitHub](https://github.com/yourusername)
