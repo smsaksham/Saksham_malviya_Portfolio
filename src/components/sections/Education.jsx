@@ -8,20 +8,19 @@ function Education() {
   const education = [
     {
       degree: "MERN Full Stack Training",
-      institution: "CodeBetter Software Training Institute Indore",
-      year: "2025",
-      grade: "Grade: 70%"
+      institution: <a href='https://codebetter.in/index.html'>CodeBetter Software Training Institute Indore</a>,
+      year: "2024-25",
     },
     {
       degree: "BCOM (Bachelor of Commerce)",
-      institution: "DAVV GACC College Indore / DAVV University",
-      year: "2022",
+      institution: <a href='https://www.dauniv.ac.in/'>DAVV GACC College Indore / DAVV University</a>,
+      year: "2023",
       grade: "Grade: 64%"
     },
     {
       degree: "Higher Secondary School",
       institution: "GAYANUDHAY VIDHYA MANDIR / Board of Secondary Education, MP",
-      year: "2019",
+      year: "2021",
       grade: "Grade: 90%"
     }
   ];

@@ -8,9 +8,15 @@ function Experience() {
   const experiences = [
     {
       role: "Intern Full Stack Developer",
-      company: "Inwizio Technologies Pvt. Ltd",
+      company:<a href='https://inwizio.com/'>Inwizio Technologies Pvt. Ltd</a>,
       duration: "December 2024 - March 2025 (3 months)",
       description: "Gained practical experience in developing and maintaining Web Applications using core technologies including HTML, CSS, JAVASCRIPT, and REACTJS."
+    },
+        {
+      role: "Service Salse Executive ",
+      company: <a href='https://paytm.com/'>Paytm</a>,
+      duration: "1 jan 2023 - 14 July 2023 (6 months)",
+      description: "It is interesting role A Service Sales Executive at Paytm typically involves a blend of sales, service, and relationship management, focusing on promoting and selling Paytm's various service offerings to merchants or consumers. key duties are acquiring new clients, meeting sales targets, and providing excellent initial service and support to ensure the consistent use of Paytm's solutions.."
     }
   ];
 

@@ -10,6 +10,7 @@ function ContactInfo({ icon: Icon, title, info, href, isLink = false }) {
         <h4 className="text-lg font-semibold text-white">{title}</h4>
         <p className="text-gray-300 ">{info}</p>
       </div>
+      
     </div>
   );
 
@@ -23,6 +24,7 @@ function ContactInfo({ icon: Icon, title, info, href, isLink = false }) {
       >
         {content}
       </a>
+      
     );
   }
   
